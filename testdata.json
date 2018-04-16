@@ -1,0 +1,127 @@
+﻿{
+    "root": {
+        "data": {
+            "id": "bkp6tlt7fw80", 
+            "created": 1523520156681, 
+            "text": "头脑风暴"
+        }, 
+        "children": [
+            {
+                "data": {
+                    "id": "bkp6tm5l0yo0", 
+                    "created": 1523520157429, 
+                    "text": "方法分析"
+                }, 
+                "children": [
+                    {
+                        "data": {
+                            "id": "bkp6tm5mav40", 
+                            "created": 1523520157432, 
+                            "text": "方法1"
+                        }, 
+                        "children": [ ]
+                    }, 
+                    {
+                        "data": {
+                            "id": "bkp6tm5n67s0", 
+                            "created": 1523520157433, 
+                            "text": "方法2"
+                        }, 
+                        "children": [ ]
+                    }, 
+                    {
+                        "data": {
+                            "id": "bkp6tm5nl4g0", 
+                            "created": 1523520157434, 
+                            "text": "方法3"
+                        }, 
+                        "children": [ ]
+                    }, 
+                    {
+                        "data": {
+                            "id": "bkp6tm5oe5k0", 
+                            "created": 1523520157435, 
+                            "text": "方法4"
+                        }, 
+                        "children": [ ]
+                    }, 
+                    {
+                        "data": {
+                            "id": "bkp6tm5oy280", 
+                            "created": 1523520157436, 
+                            "text": "方法5"
+                        }, 
+                        "children": [ ]
+                    }, 
+                    {
+                        "data": {
+                            "id": "bkp6tm5ps2g0", 
+                            "created": 1523520157437, 
+                            "text": "方法6"
+                        }, 
+                        "children": [ ]
+                    }
+                ]
+            }, 
+            {
+                "data": {
+                    "id": "bkp6tm5ppu80", 
+                    "created": 1523520157437, 
+                    "text": "确定方法"
+                }, 
+                "children": [ ]
+            }, 
+            {
+                "data": {
+                    "id": "bkp6tm5px1k0", 
+                    "created": 1523520157438, 
+                    "text": "评估方法"
+                }, 
+                "children": [ ]
+            }, 
+            {
+                "data": {
+                    "id": "bkp6tm5q0b40", 
+                    "created": 1523520157438, 
+                    "text": "选择方法"
+                }, 
+                "children": [ ]
+            }, 
+            {
+                "data": {
+                    "id": "bkp6tm5qqfs0", 
+                    "created": 1523520157439, 
+                    "text": "备选方案"
+                }, 
+                "children": [ ]
+            }, 
+            {
+                "data": {
+                    "id": "bkp6tm5sheo0", 
+                    "created": 1523520157442, 
+                    "text": "确定策略"
+                }, 
+                "children": [ ]
+            }, 
+            {
+                "data": {
+                    "id": "bkp6tm5tov40", 
+                    "created": 1523520157444, 
+                    "text": "方案实施"
+                }, 
+                "children": [ ]
+            }, 
+            {
+                "data": {
+                    "id": "bkp6tm5tyl40", 
+                    "created": 1523520157444, 
+                    "text": "方案跟进"
+                }, 
+                "children": [ ]
+            }
+        ]
+    }, 
+    "template": "default", 
+    "theme": "fresh-blue", 
+    "version": "1.4.33"
+}
